@@ -8,6 +8,8 @@ They key difference is that this version utilises Object Oriented Programming.
 
 The application replicates the operation of a real coffee machine. It asks for the user's choice of drink, then it asks for and processes coins. Different drinks are made from different recipes and the application manages their resources which it displays on request by the "report" command.
 
+The application provides a user-friendly command line interface with error-handling and looping to achieve a smooth user experience. The application also supports command line input through both keyboard and mouse.
+
 ## Usage
 
 ```
